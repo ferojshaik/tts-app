@@ -3,6 +3,7 @@ title = PDF to Speech Converter
 package.name = pdftospeech
 package.domain = com.example.pdftospeech
 
+source.dir = .
 source.main = main.py
 source.include_exts = py,png,jpg,kv,atlas
 
